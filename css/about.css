@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+table,th,td{
+border:2px solid black;
+border-collapse: collapse;
+}
+tr:nth-child(even){
+  background-color: #3db6b1;
+}
+tr:nth-child(odd){
+  background-color: #f6b1ce;
+}
+table{
+  margin-bottom:40px ;
+}
+body{
+  background-color: #1581bf;
+  font-size: 4vh;
+}

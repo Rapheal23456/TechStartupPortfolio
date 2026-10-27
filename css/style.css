@@ -19,7 +19,7 @@ list-style: none;
  color: #cce5cf ;
 }
 .nav-bar{
-    background-color: #3db6b1;
+     background-color:  #141E33;
 } 
 marquee{
     background-color: rgb(205,205,205);
@@ -55,6 +55,7 @@ display: flex;
     }
     .nav-bar ul{
     display: block;
+    background-color: #3db6b1;
 }
 body{
     font-size: 25px;

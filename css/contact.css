@@ -1,7 +1,7 @@
 body{
-    background-color: #1581bf;
+    background-color: #0B1220;
     font-size: larger;
-    color: black;
+    color: #E6EBF5;
 }
 .page {
     display:flex;
@@ -13,7 +13,7 @@ body{
     padding-top: 80px;
     border: 0.5px solid black;
     border-radius: 10px;
-    background-color:  #cce5cf;
+     background-color:  #141E33;
 }
 .page #form form select{
     display: block;
@@ -32,7 +32,7 @@ body{
 .page #box div{
     padding-bottom:60px;
     margin-bottom: 60px;
-     background-color:  #cce5cf;
+     background-color:  #141E33;
 }
 .page #form form{
     padding-bottom: 15px;

@@ -7,16 +7,14 @@ table,th,td{
 border:2px solid black;
 border-collapse: collapse;
 }
-tr:nth-child(even){
-  background-color: #3db6b1;
-}
 tr:nth-child(odd){
-  background-color: #f6b1ce;
+  background-color:#5B8CFF;
 }
 table{
   margin-bottom:40px ;
 }
 body{
-  background-color: #1581bf;
+  background-color: #0B1220;
   font-size: 4vh;
+  color: #E6EBF5;
 }
